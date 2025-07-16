@@ -1,4 +1,4 @@
 let ClockSlogan =() => {
-  return <h1>this is the clock that shows the time in bharath at all time</h1>
+  return <p className="lead">this is the clock that shows the time in bharath at all time</p>
 }
 export default ClockSlogan;

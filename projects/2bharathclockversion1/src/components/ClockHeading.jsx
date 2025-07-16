@@ -1,4 +1,4 @@
 let ClockHeading =() => {
-  return <h1>Bharath Clock</h1>
+  return <h1 className="fw-bolder">Bharath Clock</h1>
 }
 export default ClockHeading;
